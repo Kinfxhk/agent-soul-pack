@@ -1,5 +1,8 @@
 # agent-soul-pack
 
+
+**[☕ Buy Me a Coffee](https://buymeacoffee.com/kinfxhk)** · [GitHub Sponsors](https://github.com/sponsors/Kinfxhk)
+
 **狀態：M0 scaffold（人設／用戶／Agent Markdown 模板＋對接文件）——不是人設引擎。**
 
 KINFX **L1 Identity** 模板包：`soul.md`／`user.md`／`agent.md`，文件說明點裝 npm [`dsh-soul-md`](https://www.npmjs.com/package/dsh-soul-md) 入專用 `DSH_HOME`。  
