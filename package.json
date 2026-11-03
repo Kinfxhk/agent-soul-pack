@@ -1,0 +1,14 @@
+{
+  "name": "agent-soul-pack",
+  "version": "0.0.1",
+  "private": true,
+  "description": "KINFX M0 soul/user/agent Markdown templates + docs wiring to npm dsh-soul-md (no persona engine).",
+  "license": "MIT",
+  "engines": { "node": ">=22" },
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "install:templates": "node scripts/install-templates.mjs",
+    "uninstall:templates": "node scripts/install-templates.mjs --uninstall"
+  }
+}
