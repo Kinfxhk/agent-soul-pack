@@ -1,6 +1,6 @@
 # agent-soul-pack
 
-**狀態：M0 scaffold（人設／用戶／Agent Markdown 模板＋對接文件）——唔係人設引擎。**
+**狀態：M0 scaffold（人設／用戶／Agent Markdown 模板＋對接文件）——不是人設引擎。**
 
 KINFX **L1 Identity** 模板包：`soul.md`／`user.md`／`agent.md`，文件說明點裝 npm [`dsh-soul-md`](https://www.npmjs.com/package/dsh-soul-md) 入專用 `DSH_HOME`。  
 **同 DeepSeek、xAI 或其他 LLM 廠商無隸屬關係。** Not affiliated with DeepSeek, xAI, or other LLM vendors. 技術段可寫「相容 DSH（DeepSeek Harness）」。
@@ -22,7 +22,7 @@ flowchart LR
   plugin --> host
 ```
 
-L0 對照：`agent-home-recipes` 內 `profiles/default/soul.md` 係 stub；本庫提供可裝模板。
+L0 對照：`agent-home-recipes` 內 `profiles/default/soul.md` 是 stub；本庫提供可裝模板。
 
 ## 內容
 
@@ -59,7 +59,7 @@ npm run check
 
 ## 合規
 
-唔像素抄任何商業 Bot UI。公開產品名避裸 DeepSeek／Grok 品牌。  
+不像素抄任何商業 Bot UI。公開產品名避裸 DeepSeek／Grok 品牌。  
 *Not legal advice; users must comply with each provider’s Terms/AUP; no secrets in git.*
 
 ## 授權
